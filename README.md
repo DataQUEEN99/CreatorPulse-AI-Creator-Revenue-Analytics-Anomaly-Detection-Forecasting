@@ -1,0 +1,2 @@
+# CreatorPulse-AI-Creator-Revenue-Analytics-Anomaly-Detection-Forecasting
+CreatorPulse AI is a Python-based analytics project that transforms creator income data into actionable business insights. It analyzes revenue, profitability, platform performance, and currency distribution while using Isolation Forest to detect unusual payments and Random Forest to generate experimental 30-day revenue forecasts
